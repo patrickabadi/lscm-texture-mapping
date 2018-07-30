@@ -1,2 +1,2 @@
 # lscm-texture-mapping
-Project to test out mesh cutting, parametrization, and atlas generation
+Attempting to read in a colored vertex mesh from OBJ and output a proper textured image.
