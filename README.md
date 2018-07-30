@@ -12,6 +12,8 @@ Import Libpng library from VCPKG for creating and saving png files
 Implement Interpolated Triangle drawing for the creation of the texture maps
 https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/rasterization-stage
 
+<img src="./screenshots/interpolated-triangle.png" width="200" height="200" />
+
 ## Step 4
 Investigate Mesh cutting algorithms
 
