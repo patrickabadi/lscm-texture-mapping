@@ -1,5 +1,5 @@
 # lscm-texture-mapping
-Attempting to read in a colored vertex mesh from OBJ and output a proper textured image.
+Attempting to read in a colored vertex mesh from OBJ and output a proper textured image.  Test models are captured with Intel D435 using custom surface reconstruction software and saved in colored OBJ format.
 
 ## Step 1
 Import OpenNL library and use _Least Squares Conformal Maps_ algorithm for mesh parametrization.
