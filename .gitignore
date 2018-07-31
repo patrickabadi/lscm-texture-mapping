@@ -34,3 +34,5 @@ TestLSCM/Debug/
 TestLSCM/x64/
 TestLSCM/TestLSCM.vcxproj.filters
 TestLSCM/TestLSCM.vcxproj.user
+.vs/
+x64/
